@@ -1,0 +1,36 @@
+TYPESCRIPT
+  website
+    - https://www.typescriptlang.org/
+    - https://www.youtube.com/watch?v=WBPrJSw7yQA
+
+  environment setup
+    - npm install -g typescript
+    - tsc -v
+    - tsc filename.ts
+
+  what and why
+    - Open Source programming lang from MicroSoft
+    - Typed superset of JavaScript
+    - Compiles down to plain javascript
+    - Example helloworld
+
+  variable declarations
+    - vars
+    - consts
+
+  variable types
+    - Number
+    - String
+    - Boolean
+    - Null
+    - Undefined
+    - Array
+    - Any
+
+  functions
+
+  interface
+
+  class
+
+  access modifiers
